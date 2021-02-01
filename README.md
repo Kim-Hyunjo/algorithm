@@ -1,2 +1,2 @@
 # self-study
-studying!
+Solving algorithm problems with Python language.
